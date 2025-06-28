@@ -17,7 +17,7 @@ public class Cualidades
 
     public String getDatos()
     {
-        return "\nEmpleado: " + this.nombre + "\nEdad: "
+        return "\nEmpleado: " + this.nombre + "\nSalario: "
                 + this.salario + "\nPuesto de trabajo: "
                 + this.puesto + "\nGanancia extra: " + this.extra + "\n";
     }
